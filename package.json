@@ -1,18 +1,15 @@
 {
-  "name": "justrelease",
+  "name": "@verzola/releaser",
   "version": "0.0.0-development",
-  "description": "",
-  "main": "index.js",
+  "description": "automatically release semantic versions on GitHub",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "release": "semantic-release"
   },
   "repository": {
     "type": "git",
     "url": "git@github.com:verzola/releaser-test.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Gustavo Verzola <verzola@gmail.com>",
   "bugs": {
     "url": "https://github.com/verzola/releaser-test/issues"
   },
